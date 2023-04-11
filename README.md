@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rajshri Ekatpure</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m dedicated to **I am dedicated to continuously expanding and refining my skillset as a data scientist, constantly seeking out new learning opportunities and challenging myself to tackle increasingly complex problems. Through a tireless commitment to personal and professional growth, I am confident in my ability to bring cutting-edge techniques and innovative solutions to any project or team.**
+- 🌱  **I am dedicated to continuously expanding and refining my skillset as a data scientist, constantly seeking out new learning opportunities and challenging myself to tackle increasingly complex problems. Through a tireless commitment to personal and professional growth, I am confident in my ability to bring cutting-edge techniques and innovative solutions to any project or team.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajashriekatpure](https://github.com/rajashriekatpure)
 
